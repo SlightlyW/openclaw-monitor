@@ -4,6 +4,8 @@
 
 一个简洁、强大的 OpenClaw 节点监控仪表盘，支持一键部署，自动适配各种 Linux 环境。
 
+![Dashboard Preview](public/dashboard.png)
+
 ## ✨ 功能特性
 
 - 📊 **实时状态监控** - Sessions 数量、模型使用、Token 消耗
